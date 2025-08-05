@@ -1,11 +1,19 @@
 N-MAP USING GUI (cyber security and ethical hacking project)
 
 
-1) install kali linux in VMWARE or take software
-2) map that 2 files in the folders of kali 
-3) open the terminal and run the 4th point commnad
-4) ./namp_gui.sh
-5) for graphical user interface use the 6th point command
-6) python3 nmap_gui.py
-7) their will be shown an graphical user interface and given options choose what  you want to do,
-    enter the IP Address of the device and see the results....
+1. Install Kali Linux using VMware or any compatible virtualization software.
+
+
+2. Copy the files nmap_gui.py and nmap_gui.sh into a folder inside Kali Linux.
+
+
+3. Open the terminal and navigate to the folder containing the project files.
+
+
+4. Run the shell script using the command: ./nmap_gui.sh.
+
+
+5. Launch the GUI with the command: python3 nmap_gui.py.
+
+
+6. Use the GUI to select scan options, enter the target IP address, and view the results.
